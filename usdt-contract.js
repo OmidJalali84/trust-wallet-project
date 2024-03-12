@@ -1,3 +1,5 @@
+// here is the abi and address of USDT smart contact
+
 export const abi = [
     {
         constant: true,
